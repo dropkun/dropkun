@@ -4,7 +4,7 @@
 )](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ... C++, C#, WPF
-- 🌱 I’m currently learning ... Rust, GCP, HCL
+- 🌱 I’m currently learning ... JavaScript, Rust, GCP, HCL
 
 <!--
 **dropkun/dropkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
