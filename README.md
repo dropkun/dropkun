@@ -3,8 +3,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dropkun
 )](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ... C++, C#, WPF
-- 🌱 I’m currently learning ... JavaScript, Rust, GCP, HCL
+- 🔭 I’m currently working on ... C++, C#(WPF), Python
+- 🌱 I’m currently learning ... JavaScript(Typescript), GCP
 
 <!--
 **dropkun/dropkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
